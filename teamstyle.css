@@ -120,11 +120,6 @@ h4 {
     display: block;
   }
 
-  .card-top {
-    background-color: red;
-    height: 200px;
-  }
-
   .section-team {
     margin-bottom: 6rem;
   }
@@ -137,6 +132,7 @@ h4 {
   .card-top {
     background-image: url(https://www.freewebheaders.com/wp-content/gallery/sunsets/beautiful-sunset-lake-header-7332.jpg);
     position: absolute;
+    height: 200px;
     margin: auto;
     top: 0;
     right: 0;
